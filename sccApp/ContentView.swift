@@ -11,7 +11,14 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
-                Text("Cai Quan")
+                
+                .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+                
+            Text("hello world")
+                .font(.largeTitle)
+                .fontWeight(.bold)
+                .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+                
         }
         .padding()
     }
