@@ -3,7 +3,7 @@
     {
       "color" : {
         "platform" : "universal",
-        "reference" : "systemYellowColor"
+        "reference" : "systemTealColor"
       },
       "idiom" : "universal"
     },
@@ -15,13 +15,8 @@
         }
       ],
       "color" : {
-        "color-space" : "srgb",
-        "components" : {
-          "alpha" : "1.000",
-          "blue" : "0.039",
-          "green" : "0.746",
-          "red" : "1.000"
-        }
+        "platform" : "universal",
+        "reference" : "systemTealColor"
       },
       "idiom" : "universal"
     }
