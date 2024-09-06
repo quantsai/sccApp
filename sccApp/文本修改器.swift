@@ -19,7 +19,7 @@ struct TextModifierView: View {
             
             // 自定义字体
             Divider()
-            Text("自定义字体").font(.custom("FZKai-Z03S", size: 24))
+//            Text("自定义字体").font(.custom("FZKai-Z03S", size: 24))
             
             
             // 字号
