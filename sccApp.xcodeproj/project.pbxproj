@@ -23,9 +23,6 @@
 		2810BFF62C49FE9200F81B31 /* sccAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2810BFF52C49FE9200F81B31 /* sccAppTests.swift */; };
 		2810C0002C49FE9200F81B31 /* sccAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2810BFFF2C49FE9200F81B31 /* sccAppUITests.swift */; };
 		2810C0022C49FE9200F81B31 /* sccAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2810C0012C49FE9200F81B31 /* sccAppUITestsLaunchTests.swift */; };
-		281ADE882C5B27D2009EDA33 /* FZKai-Z03S.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 281ADE872C5B27D2009EDA33 /* FZKai-Z03S.ttf */; };
-		281ADE892C5B27D2009EDA33 /* FZKai-Z03S.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 281ADE872C5B27D2009EDA33 /* FZKai-Z03S.ttf */; };
-		281ADE8A2C5B27D2009EDA33 /* FZKai-Z03S.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 281ADE872C5B27D2009EDA33 /* FZKai-Z03S.ttf */; };
 		288463442C59FF2900B90E2E /* 层级.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288463432C59FF2900B90E2E /* 层级.swift */; };
 		288463462C5A0FDC00B90E2E /* 列表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288463452C5A0FDC00B90E2E /* 列表.swift */; };
 		28BB7CA92C609D8A00B8788E /* ArticleDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BB7CA82C609D8A00B8788E /* ArticleDetail.swift */; };
@@ -87,7 +84,6 @@
 		2810BFFB2C49FE9200F81B31 /* sccAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sccAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2810BFFF2C49FE9200F81B31 /* sccAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sccAppUITests.swift; sourceTree = "<group>"; };
 		2810C0012C49FE9200F81B31 /* sccAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sccAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		281ADE872C5B27D2009EDA33 /* FZKai-Z03S.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "FZKai-Z03S.ttf"; path = "../../../../Downloads/FZKai-Z03S/FZKai-Z03S.ttf"; sourceTree = "<group>"; };
 		288463432C59FF2900B90E2E /* 层级.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "层级.swift"; sourceTree = "<group>"; };
 		288463452C5A0FDC00B90E2E /* 列表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "列表.swift"; sourceTree = "<group>"; };
 		28B1EF6B2C5B256300D380DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -183,7 +179,6 @@
 				28B1EF6B2C5B256300D380DA /* Info.plist */,
 				2810BFE72C49FE9200F81B31 /* Assets.xcassets */,
 				2810BFEB2C49FE9200F81B31 /* Preview Assets.xcassets */,
-				281ADE872C5B27D2009EDA33 /* FZKai-Z03S.ttf */,
 				2810BFE92C49FE9200F81B31 /* sccApp.entitlements */,
 				2810BFE32C49FE9100F81B31 /* sccAppApp.swift */,
 				28BC6B472C89822900DE5C65 /* Model */,
@@ -368,7 +363,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				281ADE882C5B27D2009EDA33 /* FZKai-Z03S.ttf in Resources */,
 				2810BFEC2C49FE9200F81B31 /* Preview Assets.xcassets in Resources */,
 				2810BFE82C49FE9200F81B31 /* Assets.xcassets in Resources */,
 			);
@@ -378,7 +372,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				281ADE892C5B27D2009EDA33 /* FZKai-Z03S.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,7 +379,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				281ADE8A2C5B27D2009EDA33 /* FZKai-Z03S.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
